@@ -1,0 +1,154 @@
+Received request: 
+Received request: 
+Received request: 
+Extracted endpoint: login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: register
+REQUEST_URI: /PurrfectPair-API-/api.php/register
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: approved
+REQUEST_URI: /PurrfectPair-API-/api.php/approved
+Extracted endpoint: ?status=approved
+REQUEST_URI: /PurrfectPair-API-/api.php?status=approved
+Extracted endpoint: getPosts/approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts/approved
+Extracted endpoint: getPosts?status=approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=approved
+Extracted endpoint: PurrfectPair-API-/api.php/getPosts
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=approved
+Extracted endpoint: PurrfectPair-API-/api.php/getPosts
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts
+Extracted endpoint: PurrfectPair-API-/api.php/login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: PurrfectPair-API-/api.php/login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: getPosts?status=rejected
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=rejected
+Extracted endpoint: getPosts?status=rejected
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=rejected
+Extracted endpoint: PurrfectPair-API-/api.php/login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: getPosts/approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts/approved
+Extracted endpoint: getPosts
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts
+Extracted endpoint: getPosts
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts
+Extracted endpoint: getPosts
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts
+Extracted endpoint: getPosts
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts
+Extracted endpoint: getPosts
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts
+Extracted endpoint: register
+REQUEST_URI: /PurrfectPair-API-/api.php/register
+Extracted endpoint: register
+REQUEST_URI: /PurrfectPair-API-/api.php/register
+Extracted endpoint: register
+REQUEST_URI: /PurrfectPair-API-/api.php/register
+Extracted endpoint: register
+REQUEST_URI: /PurrfectPair-API-/api.php/register
+Extracted endpoint: addCat
+REQUEST_URI: /PurrfectPair-API-/api.php/addCat
+Extracted endpoint: addCat
+REQUEST_URI: /PurrfectPair-API-/api.php/addCat
+Extracted endpoint: addCat
+REQUEST_URI: /PurrfectPair-API-/api.php/addCat
+Extracted endpoint: addCat
+REQUEST_URI: /PurrfectPair-API-/api.php/addCat
+Extracted endpoint: addCat
+REQUEST_URI: /PurrfectPair-API-/api.php/addCat
+Extracted endpoint: addCat
+REQUEST_URI: /PurrfectPair-API-/api.php/addCat
+Extracted endpoint: register
+REQUEST_URI: /PurrfectPair-API-/api.php/register
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: getPosts?status=approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=approved
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: getPosts?status=approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=approved
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: getPosts?status=approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=approved
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: getPosts?status=approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=approved
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: getPosts?status=approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=approved
+Extracted endpoint: getPosts?status=approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=approved
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: getPosts?status=approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=approved
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: getPosts?status=approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=approved
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: getPosts?status=approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=approved
+Extracted endpoint: register
+REQUEST_URI: /PurrfectPair-API-/api.php/register
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: getPosts?status=approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=approved
+Extracted endpoint: register
+REQUEST_URI: /PurrfectPair-API-/api.php/register
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: getPosts?status=approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=approved
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: getPosts?status=approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=approved
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: login
+REQUEST_URI: /PurrfectPair-API-/api.php/login
+Extracted endpoint: getPosts?status=approved
+REQUEST_URI: /PurrfectPair-API-/api.php/getPosts?status=approved

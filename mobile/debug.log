@@ -1,0 +1,9 @@
+Received JSON: {"contactNumber":"+1639293123923","email":"christian@gmail.com","facebookName":"Christian","fullname":"Christian Mondala","homeAddress":"Pangasinan","password":"123456789"}
+Received JSON: {
+    "email": "test@gmail.com",
+    "password": "password123"
+}
+Received JSON: {
+    "email": "test@gmail.com",
+    "password": "password123"
+}

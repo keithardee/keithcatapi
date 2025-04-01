@@ -7,3 +7,4 @@ Received JSON: {
     "email": "test@gmail.com",
     "password": "password123"
 }
+Received JSON: {"contactNumber":"09787878798","email":"sample@gmail.com","facebookName":"sample","fullname":"sample","homeAddress":"sample","password":"sample123"}
